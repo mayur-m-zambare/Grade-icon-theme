@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1"
+   id="svg10"
+   sodipodi:docname="drive-removable-media.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14">
+    <linearGradient
+       id="linearGradient949"
+       x1="7.9373002"
+       x2="7.9373002"
+       y1="15.081"
+       y2="1.852"
+       gradientTransform="matrix(3.7796,0,0,3.7796,-300.85945,-91.586038)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#1fe0aa"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#b2ff85"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="6.84375"
+     inkscape:cx="9.9360731"
+     inkscape:cy="32.146119"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     d="M 53,55 V 9 C 53,7.338 51.662,6 50,6 H 14 c -1.662,0 -3,1.338 -3,3 v 46 c 0,1.662 1.338,3 3,3 h 36 c 1.662,0 3,-1.338 3,-3 z"
+     fill="#666"
+     id="path2"
+     style="fill:#1fe0aa;fill-opacity:1" />
+  <circle
+     cx="32"
+     cy="31"
+     r="16"
+     fill="#fff"
+     paint-order="markers stroke fill"
+     id="circle4" />
+  <circle
+     cx="32"
+     cy="31"
+     r="14"
+     fill="#53a6bc"
+     paint-order="markers stroke fill"
+     id="circle6"
+     style="fill:#1fe0aa;fill-opacity:1" />
+  <path
+     d="M25 34h14v3H25zm7-10l7 7H25z"
+     fill="#fff"
+     id="path8" />
+</svg>

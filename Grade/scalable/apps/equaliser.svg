@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 0 512 512"
+   id="svg2"
+   sodipodi:docname="equaliser.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview69"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.60490775"
+     inkscape:cx="312.44433"
+     inkscape:cy="295.91289"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata110">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="7"
+       x="-0.018107638"
+       y="-0.017892786"
+       width="1.0362153"
+       height="1.0357856">
+      <feGaussianBlur
+         id="feGaussianBlur7"
+         stdDeviation="3.7725" />
+    </filter>
+    <linearGradient
+       y1="19.563999"
+       x2="0"
+       y2="504.01999"
+       id="8"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop10"
+         style="stop-color:#f3f3f3;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop12"
+         style="stop-color:#eeeeee;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop14"
+         style="stop-color:#ebebeb;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="5"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.02835,0,0,1.46193,-396.2547,-129.10279)" />
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="6"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0381,0,0,1.46193,-463.94753,-115.9121)" />
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="4"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.02835,0,0,1.46193,-460.41153,-115.9121)" />
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="3"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0381,0,0,1.46193,-438.9197,-117.06279)" />
+    <linearGradient
+       id="0">
+      <stop
+         id="stop21"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop23"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="2"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0381,0,0,1.46193,-438.9247,-105.03279)" />
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="1"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0381,0,0,1.46193,-438.9247,-117.06279)" />
+    <linearGradient
+       id="0-3"
+       gradientUnits="userSpaceOnUse"
+       y1="61.831001"
+       x2="0"
+       y2="-0.20299999">
+      <stop
+         stop-color="#003a56"
+         id="stop6" />
+      <stop
+         stop-color="#00607c"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#0-3"
+       id="linearGradient906"
+       x1="38.5"
+       y1="256"
+       x2="473.5"
+       y2="256"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0023954,0,0,0.98700703,-513.38325,4.0422388)" />
+    <linearGradient
+       id="0-6"
+       x1="62.400002"
+       y1="29.832001"
+       x2="61.709"
+       y2="-15.09"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#2e3e46"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#435a64"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="436.04199"
+     height="429.34799"
+     rx="63.351387"
+     x="-474.79099"
+     y="42.042"
+     id="rect33"
+     style="fill:url(#linearGradient906);fill-opacity:1;stroke-width:0.994671"
+     transform="rotate(-90)" />
+  <g
+     transform="matrix(0.98700694,0,0,1.0023954,2.4255178,-11.638391)"
+     id="g39">
+    <g
+       transform="translate(15,15)"
+       id="g41"
+       style="opacity:0.2">
+      <path
+         d="m 81.64,387.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="9" />
+      <path
+         d="m 81.64,328.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="A" />
+      <path
+         d="m 81.64,269.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="B" />
+      <path
+         d="m 81.64,210.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="C" />
+      <path
+         d="m 170.64,387.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="D" />
+      <path
+         d="m 170.64,328.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="E" />
+      <path
+         d="m 170.64,269.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="F" />
+      <path
+         d="m 170.64,210.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="G" />
+      <path
+         d="m 170.64,151.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="H" />
+      <path
+         d="m 170.64,92.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="I" />
+      <path
+         d="m 348.64,387.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="J" />
+      <path
+         d="m 348.64,328.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="K" />
+      <path
+         d="m 348.64,269.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="L" />
+      <path
+         d="m 348.64,210.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="M" />
+      <path
+         d="m 259.64,387.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="N" />
+      <path
+         d="m 259.64,328.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="O" />
+      <path
+         d="m 259.64,269.77 h 70 v 40 h -70 z"
+         inkscape:connector-curvature="0"
+         id="P" />
+    </g>
+    <g
+       id="g60"
+       style="fill:#dcdbdb">
+      <use
+         id="use62"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#9"
+         style="fill:#aaffaa" />
+      <use
+         id="use64"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#A"
+         style="fill:#80ff80" />
+      <use
+         id="use66"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#B"
+         style="fill:#00d400" />
+      <use
+         id="use68"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#C"
+         style="fill:#008000" />
+      <use
+         id="use70"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#D"
+         style="fill:#aaeeff" />
+      <use
+         id="use72"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#E"
+         style="fill:#55ddff" />
+      <use
+         id="use74"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#F"
+         style="fill:#2ad4ff" />
+      <use
+         id="use76"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#G"
+         style="fill:#00ccff" />
+      <use
+         id="use78"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#H"
+         style="fill:#00aad4" />
+      <use
+         id="use80"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#I"
+         style="fill:#0088aa" />
+      <use
+         id="use82"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#J"
+         style="fill:#ffeeaa" />
+      <use
+         id="use84"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#K"
+         style="fill:#ffe680" />
+      <use
+         id="use86"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#L"
+         style="fill:#ffd42a" />
+      <use
+         id="use88"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#M"
+         style="fill:#d4aa00" />
+      <use
+         id="use90"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#N"
+         style="fill:#ffaaaa" />
+      <use
+         id="use92"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#O"
+         style="fill:#ff8080" />
+      <use
+         id="use94"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#P"
+         style="fill:#ff0000" />
+    </g>
+  </g>
+</svg>
